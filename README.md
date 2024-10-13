@@ -1,6 +1,3 @@
-Sure! Here’s the updated README file without the license section:
-
----
 
 # CodeAlpha Age Calculator
 
@@ -82,7 +79,3 @@ To run this project locally, follow these steps:
 
 - [Google Fonts](https://fonts.google.com/) for the Poppins font.
 - Inspiration from various online resources for responsive design techniques.
-
----
-
-Feel free to make any additional adjustments or let me know if there's anything else you would like to include!
