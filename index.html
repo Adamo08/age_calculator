@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Link Css File  -->
+    <link rel="stylesheet" href="style.css">
+    <title>CodeAlpha Age Calculator</title>
+</head>
+<body>
+    <section class="app">
+        <div class="content">
+            <h1 id="heading">Age Calculator</h1>
+            <div class="content-header">
+                <h1>Enter Your Birth Date: </h1>
+                <form action="">
+                    <input 
+                        type="date" 
+                        id="birth-input"
+                    >
+                    <span id="date-error" class="error-message">Please select a valid date.</span>
+                    <input 
+                        type="submit" 
+                        value="Calculate"
+                    >
+                </form>                
+            </div>
+            <div class="content-body">
+                <div class="box years-box">
+                    <div class="years">??</div>
+                    <span>Years</span>
+                </div>
+                <div class="box months-box">
+                    <div class="months">??</div>
+                    <span>Months</span>
+                </div>
+                <div class="box days-box">
+                    <div class="days">??</div>
+                    <span>Days</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Link the JS File  -->
+    <script src="./script.js"></script>
+</body>
+</html>
