@@ -1,5 +1,5 @@
 
-# CodeAlpha Age Calculator
+# Simple Age Calculator
 
 **Responsive Date Input Form**
 
