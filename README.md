@@ -5,7 +5,7 @@
 
 ## Description
 
-This project, **CodeAlpha Age Calculator**, is a responsive date input form designed using HTML, CSS, and JavaScript. It features a user-friendly layout that adapts to various screen sizes, ensuring optimal usability across devices. The form includes date inputs and a submit button, with validation for invalid inputs.
+This project, **Simple Age Calculator**, is a responsive date input form designed using HTML, CSS, and JavaScript. It features a user-friendly layout that adapts to various screen sizes, ensuring optimal usability across devices. The form includes date inputs and a submit button, with validation for invalid inputs.
 
 ## Features
 
@@ -26,12 +26,12 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/adamo08/codealpha_age_calculator.git
+   git clone https://github.com/adamo08/age_calculator.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd codealpha_age_calculator
+   cd age_calculator
    ```
 
 3. **Open `index.html` in your web browser:**
@@ -52,7 +52,7 @@ To run this project locally, follow these steps:
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>CodeAlpha Age Calculator</title>
+    <title>Simple Age Calculator</title>
 </head>
 <body>
     <div class="content">
